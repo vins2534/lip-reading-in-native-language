@@ -10,10 +10,6 @@ This project focuses on lip reading for the Hindi language using machine learnin
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
 - [Conclusion and Future Work](#conclusion-and-future-work)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
